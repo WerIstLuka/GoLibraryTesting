@@ -1,5 +1,5 @@
 package Test
 
-func main() string {
+func Please() string {
 	return "import works"
 }
